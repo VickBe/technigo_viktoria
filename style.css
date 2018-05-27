@@ -1,4 +1,4 @@
-/* Example styling of a h1 element */
+
 html {
   background: url(http://transit7.cargocollective.com/1/20/659617/13527152/bgHandShadow.png) no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -14,7 +14,7 @@ h1 {
 
 }
 body{
-font-family: 'Fredoka One', cursive;
+font-family: 'Fredoka One';
 font-size: 75px;
 text-shadow: 4px 4px 4px #1dbfb2;
 display: flex;
@@ -60,7 +60,7 @@ section{
 
 
 }
-::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+::-webkit-input-placeholder {
   color: #0025FF;
   background-color: #6fe8c2;
 }
